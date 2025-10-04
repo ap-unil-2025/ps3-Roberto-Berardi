@@ -1,29 +1,11 @@
-# Python
 __pycache__/
-*.py[cod]
-*$py.class
-*.so
-.Python
-env/
+*.pyc
+.venv/
 venv/
-.venv
-ENV/
-
-# IDE
-.vscode/
-.idea/
-*.swp
-*.swo
-*~
-
-# OS
 .DS_Store
-Thumbs.db
-
-# Project specific
-test_outputs/
 *.log
-.pytest_cache/
+test_outputs/
+cat .gitignore
 
-# Don't ignore the sample file
-!sample.txt
+printf "__pycache__/\n*.pyc\n.venv/\nvenv/\n.DS_Store\n*.log\ntest_outputs/\n" > .gitignore
+cat .gitignore
