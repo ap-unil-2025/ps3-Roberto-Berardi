@@ -1,3 +1,17 @@
+acbcb3e Bonus: password generator (guaranteed types, strength scoring)
+e59ee7f Complete Problem Set 3
+e640282 Trigger CI for Problem 2
+cf1fc1d Trigger CI for Problem 3
+643e827 Trigger CI: ensure latest problem4.py picked up
+6202b96 Trigger autograder run
+c392e00 Trigger autograder
+8a476b1 Trigger autograder
+3d98593 Ignore problem1.py
+6c80702 Ignore local scratch test files
+328ee9c Complete Problem 4: file word counter (unique words, frequencies, characters, longest)
+578fa39 Complete Problem 3: number analyzer (validation, stats, formatted output)
+5ec0e59 Complete Problem 2: temperature converter with validation and rounding
+8c5e602 Add git history
 5a6edd9 Personalize hello message
 acb8798 Add hello_git.py
 1f44a1a Add .gitignore
